@@ -31,7 +31,7 @@ Para contribuir com esse projeto basta fazer um fork desse repositório, criar s
 
 ## Autor
 
-- [Darly](https://www.github.com/darlyzin)
+- [Thinxy](https://www.github.com/Thinxy)
 
 ## Licença
 
